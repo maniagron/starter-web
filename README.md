@@ -8,6 +8,10 @@ this example is to show diff parts of the git repository and various ommands usi
 
 ## Purpose
 
+the main purpose is to provide simple example
+
 ## Deployment
+
+this is a simple web project, deployment can be on any web server or even any local file system.
 
 ## How To Contribute
